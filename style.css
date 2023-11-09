@@ -1,0 +1,42 @@
+
+    body{
+        font-family: cursive;
+
+    }
+h1{
+    
+    color: #f02293;
+}
+.week{
+    margin-right: 5mm;
+    background: #bae1f1;
+   
+
+
+}
+.bold{
+    font-weight: bold;
+   
+}
+.weeek{
+    margin-left: 19mm;
+}
+
+a{
+    margin-right: 3mm;
+    color: rgb(11, 40, 44);
+    
+
+}
+.slides{
+    background: #dcc2f3;
+}
+.start{
+    background: #a3aee9;
+}
+.check{
+    background: #f7a6cc;
+}
+.solution{
+    background: #f195da;
+}
